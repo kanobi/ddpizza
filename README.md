@@ -8,7 +8,9 @@ At least as a starting point. I'll add other references when I come to it. There
 ---
 
 ----
-<img src="img/pizza_dalle.png" height="350" alt="DALLE AI created this modernist painting in the style of Constructivism painting of pizza where half of the pizza is made by electronic bits and the other half is normal." title="Pizza Constructivism by DALLE" />
+<p align="center">
+ <img src="img/pizza_dalle.png" height="350" alt="DALLE AI created this modernist painting in the style of Constructivism painting of pizza where half of the pizza is made by electronic bits and the other half is normal." title="Pizza Constructivism by DALLE" />
+</p>
 
 ---
 
